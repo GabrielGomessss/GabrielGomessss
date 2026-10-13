@@ -23,8 +23,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="HTML5"
    title="HTML5"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 200px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
    />
 
@@ -32,8 +32,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="CSS3"
    title="CSS3"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
    />
 
@@ -41,8 +41,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="JavaScript"
    title="JavaScript"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
    />
 
@@ -50,8 +50,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="TypeScript"
    title="TypeScript"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
    />
 
@@ -59,8 +59,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Tailwind CSS"
    title="Tailwind CSS"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
    />
 
@@ -68,8 +68,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Bootstrap"
    title="Bootstrap"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
    />
 
@@ -77,8 +77,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="PHP"
    title="PHP"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
    />
 
@@ -86,8 +86,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Python"
    title="Python"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
    />
 
@@ -95,8 +95,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="JAVA"
    title="JAVA"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
    />
 
@@ -104,8 +104,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="SQL"
    title="SQL"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
    />
 
@@ -113,8 +113,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="PostgreSQL"
    title="PostgreSQL"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
    />
 
@@ -122,8 +122,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Supabase"
    title="Supabase"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
    />
 
@@ -131,8 +131,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="C++"
    title="C++"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
    />
 
@@ -140,8 +140,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="React"
    title="React"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
    />
 
@@ -149,8 +149,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="React Native"
    title="React Native"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
    />
 
@@ -158,8 +158,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Node.js"
    title="Node.js"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
    />
 
@@ -167,8 +167,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Visual Studio Code"
    title="Visual Studio Code"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
    />
 
@@ -176,8 +176,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Apache NetBeans"
    title="Apache NetBeans"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"
    />
 
@@ -185,19 +185,17 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Jira"
    title="Jira"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
    />
-
-   <br/>
 
    <img 
    align="left"
    alt="Arduino IDE"
    title="Arduino IDE"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
    />
 
@@ -205,8 +203,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Git"
    title="Git"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
    />
 
@@ -214,8 +212,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="GitHub"
    title="GitHub"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
    />
 
@@ -223,8 +221,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Inkscape"
    title="Inkscape"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"
    />
 
@@ -232,8 +230,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="GIMP"
    title="GIMP"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"
    />
 
@@ -241,8 +239,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Linux"
    title="Linux"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
    />
 
@@ -250,8 +248,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Railway"
    title="Railway"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
    />
 
@@ -259,8 +257,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Vite"
    title="Vite"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"
    />
 
@@ -268,8 +266,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Vercel"
    title="Vercel"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
    />
 
@@ -277,8 +275,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="PowerShell"
    title="PowerShell"
-   width="30px"
-   style="padding: 12px; margin-bottom: 15px;"
+   width="23px"
+   style="margin: 15px"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
    />
    
