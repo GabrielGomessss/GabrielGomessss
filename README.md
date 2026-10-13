@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com habilitação técnica em Análise e Desenvolvimento de Sistemas na ETEC Jacinto Ferreira de Sá. Gosto muito da área de tecnologia, busco aprender sempre mais sobre o ramo e compartilho meu conhecimento através do meu perfil no Linkedln "[Gabriel Gomes](www.linkedin.com/in/gabriel-dos-reis-gomes-b88411333)", onde mostro minhas atividades, e publico meus projetos.
+Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com habilitação técnica em Análise e Desenvolvimento de Sistemas na ETEC Jacinto Ferreira de Sá. Gosto muito da área de tecnologia, busco aprender sempre mais sobre o ramo e compartilho meu conhecimento através do meu perfil no Linkedln "[Gabriel Gomes](https://www.linkedin.com/in/gabriel-dos-reis-gomes-b88411333/?isSelfProfile=true)", onde mostro minhas atividades, e publico meus projetos.
 
 <p align="left">
       <a href="mailto:gabriel.reisgomess@gmail.com">
