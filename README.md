@@ -1,8 +1,72 @@
-# 👨‍💻 Gabriel Gomes 
+# 👨‍💻 Gabriel Gomes
 
-**`Desenvolvedor FullStack`**
+**`<h2>Desenvolvedor FullStack</h2>`**
 
-Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com habilitação técnica em Análise e Desenvolvimento de Sistemas na ETEC Jacinto Ferreira de Sá. Gosto muito da área de tecnologia, busco aprender sempre mais sobre o ramo e compartilho meu conhecimento através do meu perfil no Linkedln "[Gabriel Gomes](https://www.linkedin.com/in/gabriel-dos-reis-gomes-b88411333/?isSelfProfile=true)", onde mostro minhas atividades, e publico meus projetos.
+Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atualmente, estou cursando o ensino médio com habilitação técnica em Análise e Desenvolvimento de Sistemas na ETEC Jacinto Ferreira de Sá. Gosto muito da área de tecnologia, busco aprender sempre mais sobre o ramo e compartilho meu conhecimento através do meu perfil no Linkedln "[Gabriel Gomes](www.linkedin.com/in/gabriel-dos-reis-gomes-b88411333)", onde mostro minhas atividades, e publico meus projetos.
+
+<details style = "padding: 0 0 5px;">
+  <summary style = "Font-Size: 15px; Font-Weight: Bold;">Certificados</summary>
+      
+<br>
+      
+  <p style = "Font-Size: 30px; padding-top: 15px;">MINICURSOS</p>
+
+  ---
+
+  <p style = "Font-Size: 13px; padding-top: 5px;">Semana de Tecnologia 2024</p>
+<img width = "350px" src = "Certificados/Cursos/Semana de Tecnologia 2024.jpg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Game Maker</p>
+<img width = "350px" src = "Certificados/Cursos/Game Maker.jpg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Explorando Vulnerabilidades em Aplicações WEB com o CAIDO</p>
+<img width = "350px" src = "Certificados/Cursos/Explorando Vulnerabilidades em Aplicações WEB com o CAIDO.jpg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Linkedln - Uma Ferramenta Profissional</p>
+<img width = "350px" src = "Certificados/Cursos/Linkedin - Uma Ferrameta Profissional.jpg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Técnicas de Desenvolvimento Seguro</p>
+<img width = "350px" src = "Certificados/Cursos/Técnicas de Desenvolvimento Seguro.jpg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Introdução ao React</p>
+<img width = "350px" src = "Certificados/Cursos/Introdução ao React.jpeg">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">XIX Semana da Tecnologia 2025</p>
+<img width = "350px" src = "Certificados/Cursos/XIX Semana da Tecnologia 2025.png">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Criando seu Primeiro Personagem 2D com Inkscape</p>
+<img width = "350px" src = "Certificados/Cursos/Criando seu Primeiro Personagem 2D com Inkscape.png">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Introdução à Sonorização para Games</p>
+<img width = "350px" src = "Certificados/Cursos/Introdução à Sonorização para Games.png">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Robocode</p>
+<img width = "350px" src = "Certificados/Cursos/Robocode.png">
+
+---
+
+<p style = "Font-Size: 13px; padding-top: 5px;">Pentest Wireless - Quebra de Protocolo WEP Modo Open com Cliente Conectado</p>
+<img width = "350px" src = "Certificados/Cursos/Pentest Wireless - Quebra de Protocolo WEP Modo Open com Cliente Conectado.png">
+
+</details>
 
 <p align="left">
       <a href="mailto:gabriel.reisgomess@gmail.com">
@@ -13,72 +77,27 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
          <img alt="repositórios" title="Meus Repositórios" src="https://custom-icon-badges.demolab.com/badge/-repositórios-blue?style=for-the-badge&logoColor=white&logo=github"/></a>
          <a href="https://www.google.com/search?q=Ourinhos+SP&oq=Ourinhos+SP&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIGCAcQRRg80gEIMjQxNGowajeoAgiwAgHxBf7W9XjZL87-8QX-1vV42S_O_g&sourceid=chrome&source=chrome.ob&ie=UTF-8">
          <img alt="localização" title="Minha Localização" src="https://custom-icon-badges.demolab.com/badge/Ourinhos--sp-BRASIL-green?style=for-the-badge&logo=location&logoColor=white&labelColor=yellow"/></a>
-   </p>
+</p>
 
-   ---
+---
 
-   ### 👾 Minha Stack 
-
-   <img 
-   align="left"
-   alt="HTML5"
-   title="HTML5"
-   width="23px"
-   style="margin: 200px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-   />
-
-   <img 
-   align="left"
-   alt="CSS3"
-   title="CSS3"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="JavaScript"
-   title="JavaScript"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-   />
+   ### 🤖 Back-end
 
    <img 
    align="left"
    alt="TypeScript"
    title="TypeScript"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="Tailwind CSS"
-   title="Tailwind CSS"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="Bootstrap"
-   title="Bootstrap"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
    />
 
    <img 
    align="left"
    alt="PHP"
    title="PHP"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
    />
 
@@ -86,8 +105,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Python"
    title="Python"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
    />
 
@@ -95,53 +114,87 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="JAVA"
    title="JAVA"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="SQL"
-   title="SQL"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="PostgreSQL"
-   title="PostgreSQL"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="Supabase"
-   title="Supabase"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
    />
 
    <img 
    align="left"
    alt="C++"
    title="C++"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Node.js"
+   title="Node.js"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+   />
+
+<br/>
+<br/>
+
+---
+
+### 🤖 Front-end
+
+<img 
+   align="left"
+   alt="HTML5"
+   title="HTML5"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+   />
+
+   <img 
+   align="left"
+   alt="CSS3"
+   title="CSS3"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="JavaScript"
+   title="JavaScript"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Tailwind CSS"
+   title="Tailwind CSS"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Bootstrap"
+   title="Bootstrap"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
    />
 
    <img 
    align="left"
    alt="React"
    title="React"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
    />
 
@@ -149,26 +202,49 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="React Native"
    title="React Native"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
+   />
+
+   <br/>
+   <br/>
+
+---
+
+### 🤖 Banco de Dados
+
+   <img 
+   align="left"
+   alt="SQL"
+   title="SQL"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
    />
 
    <img 
    align="left"
-   alt="Node.js"
-   title="Node.js"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+   alt="PostgreSQL"
+   title="PostgreSQL"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
    />
+
+   <br/>
+   <br/>
+
+---
+
+### 🤖 Ferramentas
 
    <img 
    align="left"
    alt="Visual Studio Code"
    title="Visual Studio Code"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
    />
 
@@ -176,17 +252,35 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Apache NetBeans"
    title="Apache NetBeans"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Supabase"
+   title="Supabase"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Vercel"
+   title="Vercel"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
    />
 
    <img 
    align="left"
    alt="Jira"
    title="Jira"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
    />
 
@@ -194,35 +288,35 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Arduino IDE"
    title="Arduino IDE"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="Git"
-   title="Git"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
    />
 
    <img 
    align="left"
    alt="GitHub"
    title="GitHub"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+   />
+
+   <img 
+   align="left"
+   alt="Git"
+   title="Git"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
    />
 
    <img 
    align="left"
    alt="Inkscape"
    title="Inkscape"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"
    />
 
@@ -230,26 +324,17 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="GIMP"
    title="GIMP"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"
-   />
-
-   <img 
-   align="left"
-   alt="Linux"
-   title="Linux"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
    />
 
    <img 
    align="left"
    alt="Railway"
    title="Railway"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg"
    />
 
@@ -257,34 +342,26 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
    align="left"
    alt="Vite"
    title="Vite"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg"
    />
 
    <img 
    align="left"
-   alt="Vercel"
-   title="Vercel"
-   width="23px"
-   style="margin: 15px"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-   />
-
-  <img 
-   align="left"
    alt="PowerShell"
    title="PowerShell"
-   width="23px"
-   style="margin: 15px"
+   width="35px"
+   style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
    />
-   
-<br/>
-<br/>
-<br/>
 
-### 🔎 Estatisticas
+   <br/>
+   <br/>
+
+---
+
+### 🔎 Estatísticas
 
 <img
 align = "left"
