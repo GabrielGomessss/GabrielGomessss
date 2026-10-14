@@ -6,12 +6,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
 
 <details style = "padding: 0 0 5px;">
   <summary style = "Font-Size: 15px; Font-Weight: Bold;">Certificados</summary>
-      
-<br>
-      
-  <p style = "Font-Size: 30px; padding-top: 15px;">MINICURSOS</p>
-
-  ---
+        
+  ## MINICURSOS
 
   <p style = "Font-Size: 13px; padding-top: 5px;">Semana de Tecnologia 2024</p>
 <img width = "350px" src = "Certificados/Cursos/Semana de Tecnologia 2024.jpg">
