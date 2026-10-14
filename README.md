@@ -10,58 +10,57 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
   ## MINICURSOS
 
   <p style = "Font-Size: 13px; padding-top: 5px;">Semana de Tecnologia 2024</p>
-<img width = "350px" src = "Certificados/Cursos/Semana de Tecnologia 2024.jpg">
+<img width = "350px" src = "Semana de Tecnologia 2024.jpg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Game Maker</p>
-<img width = "350px" src = "Certificados/Cursos/Game Maker.jpg">
+<img width = "350px" src = "Game Maker.jpg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Explorando Vulnerabilidades em Aplicações WEB com o CAIDO</p>
-<img width = "350px" src = "Certificados/Cursos/Explorando Vulnerabilidades em Aplicações WEB com o CAIDO.jpg">
+<img width = "350px" src = "Explorando Vulnerabilidades em Aplicações WEB com o CAIDO.jpg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Linkedln - Uma Ferramenta Profissional</p>
-<img width = "350px" src = "Certificados/Cursos/Linkedin - Uma Ferrameta Profissional.jpg">
+<img width = "350px" src = "Linkedin - Uma Ferrameta Profissional.jpg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Técnicas de Desenvolvimento Seguro</p>
-<img width = "350px" src = "Certificados/Cursos/Técnicas de Desenvolvimento Seguro.jpg">
+<img width = "350px" src = "Técnicas de Desenvolvimento Seguro.jpg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Introdução ao React</p>
-<img width = "350px" src = "Certificados/Cursos/Introdução ao React.jpeg">
+<img width = "350px" src = "Introdução ao React.jpeg">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">XIX Semana da Tecnologia 2025</p>
-<img width = "350px" src = "Certificados/Cursos/XIX Semana da Tecnologia 2025.png">
+<img width = "350px" src = "XIX Semana da Tecnologia 2025.png">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Criando seu Primeiro Personagem 2D com Inkscape</p>
-<img width = "350px" src = "Certificados/Cursos/Criando seu Primeiro Personagem 2D com Inkscape.png">
+<img width = "350px" src = "Criando seu Primeiro Personagem 2D com Inkscape.png">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Introdução à Sonorização para Games</p>
-<img width = "350px" src = "Certificados/Cursos/Introdução à Sonorização para Games.png">
+<img width = "350px" src = "Introdução à Sonorização para Games.png">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Robocode</p>
-<img width = "350px" src = "Certificados/Cursos/Robocode.png">
+<img width = "350px" src = "Robocode.png">
 
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Pentest Wireless - Quebra de Protocolo WEP Modo Open com Cliente Conectado</p>
-<img width = "350px" src = "Certificados/Cursos/Pentest Wireless - Quebra de Protocolo WEP Modo Open com Cliente Conectado.png">
-
+<img width = "350px" src = "Pentest Wireless - Quebra de Protocolo WEP Modo Open com Cliente Conectado.png">
 </details>
 
 <p align="left">
