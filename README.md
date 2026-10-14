@@ -25,7 +25,7 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
 ---
 
 <p style = "Font-Size: 13px; padding-top: 5px;">Linkedln - Uma Ferramenta Profissional</p>
-<img width = "350px" src = "Linkedin - Uma Ferrameta Profissional.jpg">
+<img width = "350px" src = "LinkedIn - Uma Ferrameta Profissional.jpg">
 
 ---
 
