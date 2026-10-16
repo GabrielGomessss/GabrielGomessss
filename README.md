@@ -107,8 +107,8 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
 
    <img 
    align="left"
-   alt="JAVA"
-   title="JAVA"
+   alt="Java"
+   title="Java"
    width="35px"
    style="padding-right: 10px; padding-top: 5px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
