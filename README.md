@@ -10,7 +10,7 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
   ## MINICURSOS
 
   <p style = "Font-Size: 13px; padding-top: 5px;">Semana de Tecnologia 2024</p>
-<img width = "350px" src = "Semana de Tecnologia 2024.jpg">
+<img width = "350px" src = "Semana de Tecnologia 2024.jpg>
 
 ---
 
@@ -68,8 +68,12 @@ Me chamo Gabriel dos Reis Gomes, tenho 17 anos e sou natural de São Paulo. Atua
          <img alt="email" title="Meu Email" src="https://custom-icon-badges.demolab.com/badge/-gabriel.reisgomess@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
       <a href="https://wa.me/5515997215826">
          <img alt="whatsapp" title="Meu WhatsApp" src="https://custom-icon-badges.demolab.com/badge/-+55 15 99721--5826-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+         <a href="www.linkedin.com/in/gabriel-dos-reis-gomes-b88411333">
+         <img alt="linkedln" title="Meu Linkedln" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-white?style=for-the-badge&logo=linkedln&logoColor=black"/></a>
       <a href="https://github.com/GabrielGomessss?tab=repositories">
-         <img alt="repositórios" title="Meus Repositórios" src="https://custom-icon-badges.demolab.com/badge/-repositórios-blue?style=for-the-badge&logoColor=white&logo=github"/></a>
+         <img alt="repositórios" title="Meus Repositórios" src="https://img.shields.io/badge/-reposit%C3%B3rios-800080?style=for-the-badge&logo=github&color=800080"></a>
+      <a href="https://gabrielgomessss-curriculo.vercel.app/">
+         <img alt="currículo" title="Meu Currículo" src="https://custom-icon-badges.demolab.com/badge/-currículo-black?style=for-the-badge&logoColor=white&logo=file"/></a>
          <a href="https://www.google.com/search?q=Ourinhos+SP&oq=Ourinhos+SP&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIGCAcQRRg80gEIMjQxNGowajeoAgiwAgHxBf7W9XjZL87-8QX-1vV42S_O_g&sourceid=chrome&source=chrome.ob&ie=UTF-8">
          <img alt="localização" title="Minha Localização" src="https://custom-icon-badges.demolab.com/badge/Ourinhos--sp-BRASIL-green?style=for-the-badge&logo=location&logoColor=white&labelColor=yellow"/></a>
 </p>
